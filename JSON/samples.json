@@ -3,13 +3,13 @@
     "name": "Riff",
     "file": "samples/Riff.wav",
     "bpm": "120",
-    "loop": "1m"
+    "loop": "2m"
   },
   {
     "name": "Wave",
     "file": "samples/Wave.wav",
     "bpm": "120",
-    "loop": "1m"
+    "loop": "2m"
   },
   {
     "name": "Sqwuack",
