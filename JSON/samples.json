@@ -1,19 +1,19 @@
 [
   {
     "name": "Riff",
-    "file": "samples/Riff.wav",
+    "file": "samples/Riff.mp3",
     "bpm": "120",
     "loop": "9m"
   },
   {
     "name": "Wave",
-    "file": "samples/Wave.wav",
+    "file": "samples/Wave.mp3",
     "bpm": "120",
     "loop": "4m"
   },
   {
     "name": "Squak",
-    "file": "samples/Squak.wav",
+    "file": "samples/Squak.mp3",
     "bpm": "120",
     "loop": "0.5m"
   }
