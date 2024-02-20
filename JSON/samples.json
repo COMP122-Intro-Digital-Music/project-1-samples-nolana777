@@ -1,1 +1,20 @@
-[ ]
+[
+  {
+    "name": "Riff",
+    "file": "samples/Riff.wav",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "Wave",
+    "file": "samples/Wave.wav",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "Sqwuack",
+    "file": "samples/Sqwuack.wav",
+    "bpm": "120",
+    "loop": "1m"
+  }
+]
